@@ -1,4 +1,4 @@
-##Executive Summary – FNP Sales Dashboard
+##Executive Summary – FNP Sales Dashboard##
 
 The FNP Sales Dashboard is an interactive data visualization project designed to analyze and monitor sales performance across multiple business dimensions, including time, product categories, customer behavior, and geographic distribution.
 This dashboard provides decision-makers with a centralized view of key performance indicators (KPIs), enabling quick insights into revenue trends, order patterns, and customer spending behavior.
