@@ -1,8 +1,10 @@
-# Executive Summary – Ferns & Petals Sales Analysis
+# Excel Project Executive Summary 
+
+## Ferns & Petals Sales Analysis
 
 This project analyzes the sales dataset of Ferns and Petals (FNP) to uncover actionable insights into revenue trends, customer behavior, and product performance. An interactive dashboard was developed to address key business questions and support strategic decision-making.
 
-🎯 Key Business Insights
+## Key Business Insights
 
 1. Strong Overall Business Performance
 The total revenue generated is ₹35.2 Lakhs from 1000 orders, indicating a healthy sales volume and consistent customer demand.
@@ -14,18 +16,15 @@ The average customer spending is ₹3,520.98, showing that customers are willing
 The average order-to-delivery time is 5.53 days, suggesting a reasonably efficient logistics system, though there is room for optimization to enhance customer satisfaction.
 
 4. Seasonal Sales Trends
-
 Sales peak during February and August, likely driven by occasions like Valentine's Day and Raksha Bandhan
 Noticeable dips in mid-year months indicate off-season periods
 ➡️ Opportunity: Plan promotions during low-demand months to stabilize revenue
 
 5. Top Revenue-Generating Products
-
 Products like Magnam Set and Quia Gift lead in revenue generation
 ➡️ Premium and bundle products are more profitable
 
 6. Category Performance
-
 Colors and Soft Toys dominate sales
 Categories like Plants and Mugs underperform
 ➡️ Suggests need for better marketing or repositioning of weaker categories
